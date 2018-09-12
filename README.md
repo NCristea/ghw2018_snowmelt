@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1uhxMHkf9YgU2qVDntqTGSbzZlJY0v94X
 
 ### Proposed Methods/Tools:
 * Raster/array math
-
+   
 ---
 
 ### Background Reading:
